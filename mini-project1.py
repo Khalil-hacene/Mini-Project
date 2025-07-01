@@ -1,0 +1,10 @@
+# Madlibls game 
+adj1 = input("enter an adjective (descrption):")
+noun1 = input("enter a noun (person,place,thing):")
+adj2 = input("enter an adjective (descrption):")
+verb1 = input("enter a verb ending with an 'ing':")
+adj3 = input("enter an adjective (descrption):")
+print(f"Today I Went to a {adj1} zoo.")
+print(f"in an exhibit, i saw a {noun1}")
+print(f"f{noun1} was {adj2} and {verb1}")
+print(f"I was {adj3}!")
