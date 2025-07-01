@@ -24,4 +24,4 @@ A simple converter that lets users convert their weight between kilograms and po
 Features:
 Unit detection (K for kilograms, L for pounds)
 Input validation
-Weight conversion with rounded output
+Weight conversion with rounded output.
