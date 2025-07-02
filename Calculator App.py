@@ -19,6 +19,6 @@ elif operator == "**":
 elif operator == "%":
     result = num1 % num2
 else:
-    print(f"You did put the wrong {operator} please select one of this (+ - / *)")
+    print(f"You did put the wrong {operator} please select one of this ('+' '-' '*' '/' '**' '%')")
 
 print(round(result, 4))
