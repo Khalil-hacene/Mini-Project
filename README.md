@@ -16,3 +16,6 @@ A simple converter that lets users convert their weight between kilograms and po
 
 5. Compound Interest Calculator
 A Python program that calculates compound interest, validating user inputs for principal, rate, and time to ensure they are positive values before computing and displaying the final amount.
+
+6. Shopping Cart Program
+A simple Python program that lets users add food items and their prices to a virtual cart, then displays the items and calculates the total cost. The user can quit anytime by entering 'q'.
