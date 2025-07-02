@@ -9,7 +9,7 @@ Interactive user input and String formatting and story generation
 2. Calculator App
 A simple calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division. The user selects an operation and inputs two numbers, and the program displays the result.
 Features:
-Supports +, -, *, / operations and Simple user interface using input() and Can be extended to support more operations
+Supports +, -, *, /, **, % operations and Simple user interface using input() and Can be extended to support more operations
 3. Driving Eligibility and Traffic Exam
 This script checks whether a user is old enough to take a driving exam and then quizzes them with a few basic traffic rule questions.
 Features:
