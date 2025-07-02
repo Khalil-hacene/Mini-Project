@@ -10,6 +10,8 @@ if int(age) >= 18:
 else :
     print(f'You are not an adult yet! you need to wait for a few years cause you are only {age} years old.')
 
+print()
+
 first_question = input('What does a red traffic light mean?: ')
 
 if first_question == 'stop':
@@ -17,12 +19,16 @@ if first_question == 'stop':
 else:
     print('Incorrect answer! The correct answer is "stop".')
 
+print()
+
 second_question = input('what should you do if you see a stop sign?: ')
 
 if second_question == 'come to a complete stop, then proceed when safe':
     print('Correct answer!')
 else:
     print('Incorrect answer! The correct answer is "Come to a complete stop, then proceed when safe".')
+
+print()
 
 third_question = input('When is it legal to use a mobile phone while driving?: ')
 
