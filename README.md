@@ -6,7 +6,7 @@ This repository contains a collection of beginner-friendly Python mini projects 
 A fun word game that asks the user to input different parts of speech (adjectives, nouns, verbs) to generate a silly and creative story.
 
 2. Calculator App
-A simple calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division. The user selects an operation and inputs two numbers, and the program displays the result.
+A simple calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division, etc. The user selects an operation and inputs two numbers, and the program displays the result.
 
 3. Driving Eligibility and Traffic Exam
 This script checks whether a user is old enough to take a driving exam and then quizzes them with a few basic traffic rule questions.
