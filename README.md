@@ -19,3 +19,12 @@ A Python program that calculates compound interest, validating user inputs for p
 
 6. Shopping Cart Program
 A simple Python program that lets users add food items and their prices to a virtual cart, then displays the items and calculates the total cost. The user can quit anytime by entering 'q'.
+
+7. Concession Stand Program:
+A simple menu system for selecting food items and calculating the total cost. Users can add items to their cart and see the final price.
+
+8. Rock, Paper, Scissors Game:
+A player vs. computer game where choices determine the winner. Supports replayability with a "play again" option.
+
+9. Number Guessing Game:
+A guessing game where players try to find a random number within a range, receiving hints (too high/low) after each attempt.
