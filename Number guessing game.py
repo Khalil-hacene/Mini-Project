@@ -16,7 +16,7 @@ while True:
         guess = int(guess)
         guesses += 1
         if guess == number:
-            print(f"You have guessed the right number = {number} and after {guesses} Try.")
+            print(f"You guessed the right number {number} in {guesses} tries.")
             break
         elif guess > number:
             print("You are to high!")
