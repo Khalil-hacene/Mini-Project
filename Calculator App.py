@@ -1,6 +1,5 @@
 # Calculator program 
-running = True
-while running:
+while True:
     operator = input("Enter an operator ('+' '-' '*' '/' '**' '%'): ")
     num1 = float(input("Enter the First number: "))
     num2 = float(input("Enter the Second number: "))
@@ -12,9 +11,10 @@ while running:
     elif operator == "*":
         result = num1 * num2
     elif operator == "/":
-        result = num1 / num2
         if num2 == 0:
             print(f"You can't divide by {num2}")
+            continue 
+        result = num1 / num2
     elif operator == "**":
         result = num1 ** num2
     elif operator == "%":
