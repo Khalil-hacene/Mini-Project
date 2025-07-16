@@ -28,3 +28,6 @@ A player vs. computer game where choices determine the winner. Supports replayab
 
 9. Number Guessing Game:
 A guessing game where players try to find a random number within a range, receiving hints (too high/low) after each attempt.
+
+10. Python Banking Program
+This Python banking program is a simple console application that lets users check balances, deposit, and withdraw funds with input validation.
