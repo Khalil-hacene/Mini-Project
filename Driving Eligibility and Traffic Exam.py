@@ -12,7 +12,7 @@ else :
 
 print()
 
-first_question = input('What does a red traffic light mean?: ')
+first_question = input('What does a red traffic light mean?: ').lower().strip()
 
 if first_question == 'stop':
     print('Correct answer!')
@@ -21,7 +21,7 @@ else:
 
 print()
 
-second_question = input('what should you do if you see a stop sign?: ')
+second_question = input('what should you do if you see a stop sign?: ').lower()
 
 if second_question == 'come to a complete stop, then proceed when safe':
     print('Correct answer!')
@@ -30,7 +30,7 @@ else:
 
 print()
 
-third_question = input('When is it legal to use a mobile phone while driving?: ')
+third_question = input('When is it legal to use a mobile phone while driving?: ').lower()
 
 if third_question == 'when using a hands-free device':
     print('Correct answer!')
