@@ -1,6 +1,6 @@
-# Madlibls game 
+# Mad Libls game 
 
-# The Words you tape will fill the blanks
+# The Words you type will fill the blanks
 
 adj1 = input("Enter an adjective (descrption): ")
 noun1 = input("Enter a noun (person,place,thing): ")
