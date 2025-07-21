@@ -19,13 +19,13 @@ while playing:
     elif player == "rock" and bot == "scissors":
         print("The player WON!!!")
     elif player == "paper" and bot == "scissors":
-        print("The player WON!!!")
+        print("The bot WON!!!")
     elif player == "paper" and bot == "rock":
-        print("The bot WON!!!")
-    elif player == "scissors" and bot == "rock":
         print("The player WON!!!")
-    elif player == "scissors" and bot == "paper":
+    elif player == "scissors" and bot == "rock":
         print("The bot WON!!!")
+    elif player == "scissors" and bot == "paper":
+        print("The player WON!!!")
     
     if input("PLay again? (y/n): ").lower() == "n":
         playing = False
