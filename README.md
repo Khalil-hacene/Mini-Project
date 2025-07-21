@@ -31,3 +31,6 @@ A guessing game where players try to find a random number within a range, receiv
 
 10. Python Banking Program:
 This Python banking program is a simple console application that lets users check balances, deposit, and withdraw funds with input validation.
+
+11. Contact Book:
+A simple command-line Contact Book written in Python, Allows users to add, view, and delete contacts using a dictionary-based system.
