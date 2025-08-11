@@ -36,3 +36,5 @@ This Python banking program is a simple console application that lets users chec
 A simple command-line Contact Book written in Python, Allows users to add, view, and delete contacts using a dictionary-based system.
 12. Simple To-Do List in Python:
 A lightweight console app for adding, removing, and viewing tasks. Built with basic Python functions and loops, perfect for learning core concepts.
+13. Student Management System (CLI):
+A Python-based console app to manage student records (add, view, search, update, delete).
