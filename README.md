@@ -38,3 +38,5 @@ A simple command-line Contact Book written in Python, Allows users to add, view,
 A lightweight console app for adding, removing, and viewing tasks. Built with basic Python functions and loops, perfect for learning core concepts.
 13. Student Management System (CLI):
 A Python-based console app to manage student records (add, view, search, update, delete).
+14. Shopping Cart Program:
+A simple Python script that lets users add food items and prices to a virtual cart, then calculates the total cost.
