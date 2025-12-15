@@ -1,42 +1,24 @@
-# Mini-Project
-This repository contains a collection of beginner-friendly Python mini projects I built while learning Python. Each project focuses on simple logic, user input handling, and control flow to reinforce core programming concepts.
+# 🔹 Mini-Project
 
-📁 Projects
-1. Mad Libs Game:
-A fun word game that asks the user to input different parts of speech (adjectives, nouns, verbs) to generate a silly and creative story.
+Welcome! This repository is a collection of **beginner-friendly Python mini-projects** built to practice basic programming concepts like logic, user input, control flow, and data structures. :contentReference[oaicite:1]{index=1}
 
-2. Calculator App:
-A simple calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division, etc. The user selects an operation and inputs two numbers, and the program displays the result.
+---
 
-3. Driving Eligibility and Traffic Exam:
-This script checks whether a user is old enough to take a driving exam and then quizzes them with a few basic traffic rule questions.
+## 🚀 Projects Included
 
-4. Weight Converter:
-A simple converter that lets users convert their weight between kilograms and pounds.
+Each Python script is a standalone mini-project with a simple purpose and easy-to-follow logic. :contentReference[oaicite:2]{index=2}
 
-5. Compound Interest Calculator:
-A Python program that calculates compound interest, validating user inputs for principal, rate, and time to ensure they are positive values before computing and displaying the final amount.
-
-6. Shopping Cart Program:
-A simple Python program that lets users add food items and their prices to a virtual cart, then displays the items and calculates the total cost. The user can quit anytime by entering 'q'.
-
-7. Concession Stand Program:
-A simple menu system for selecting food items and calculating the total cost. Users can add items to their cart and see the final price.
-
-8. Rock, Paper, Scissors Game:
-A player vs. computer game where choices determine the winner. Supports replayability with a "play again" option.
-
-9. Number Guessing Game:
-A guessing game where players try to find a random number within a range, receiving hints (too high/low) after each attempt.
-
-10. Python Banking Program:
-This Python banking program is a simple console application that lets users check balances, deposit, and withdraw funds with input validation.
-
-11. Contact Book:
-A simple command-line Contact Book written in Python, Allows users to add, view, and delete contacts using a dictionary-based system.
-12. Simple To-Do List in Python:
-A lightweight console app for adding, removing, and viewing tasks. Built with basic Python functions and loops, perfect for learning core concepts.
-13. Student Management System (CLI):
-A Python-based console app to manage student records (add, view, search, update, delete).
-14. Shopping Cart Program:
-A simple Python script that lets users add food items and prices to a virtual cart, then calculates the total cost.
+1. **Mad Libs Game** – Fun word game generating creative stories using user inputs. :contentReference[oaicite:3]{index=3}  
+2. **Calculator App** – Basic arithmetic operations like addition, subtraction, multiplication, and division. :contentReference[oaicite:4]{index=4}  
+3. **Driving Eligibility & Traffic Exam** – Checks age eligibility and quizzes basic traffic rules. :contentReference[oaicite:5]{index=5}  
+4. **Weight Converter** – Convert weights between kilograms and pounds. :contentReference[oaicite:6]{index=6}  
+5. **Compound Interest Calculator** – Calculates compound interest with input validation. :contentReference[oaicite:7]{index=7}  
+6. **Shopping Cart Program** – Adds food items and prices to a cart and totals cost. :contentReference[oaicite:8]{index=8}  
+7. **Concession Stand Program** – Simple menu system for selecting items and calculating cost. :contentReference[oaicite:9]{index=9}  
+8. **Rock, Paper, Scissors Game** – Classic game with replay support. :contentReference[oaicite:10]{index=10}  
+9. **Number Guessing Game** – Guess the random number with guidance. :contentReference[oaicite:11]{index=11}  
+10. **Python Banking Program** – Console banking app for balance, deposit, and withdrawal. :contentReference[oaicite:12]{index=12}  
+11. **Contact Book** – CLI program to add, view, and delete contacts. :contentReference[oaicite:13]{index=13}  
+12. **To-Do List** – Console to-do list for tasks. :contentReference[oaicite:14]{index=14}  
+13. **Student Management System (CLI)** – Add, view, search, update, delete student records. :contentReference[oaicite:15]{index=15}  
+14. **Weight Converter** – Converts between units (kg ↔ lbs). :contentReference[oaicite:16]{index=16}
