@@ -1,24 +1,23 @@
 # 🔹 Mini-Project
 
-Welcome! This repository is a collection of **beginner-friendly Python mini-projects** built to practice basic programming concepts like logic, user input, control flow, and data structures. :contentReference[oaicite:1]{index=1}
+Welcome! This repository contains a collection of **beginner-friendly Python mini-projects** designed to practice fundamental programming concepts such as logic building, user input handling, control flow, and basic data structures.
 
 ---
 
 ## 🚀 Projects Included
 
-Each Python script is a standalone mini-project with a simple purpose and easy-to-follow logic. :contentReference[oaicite:2]{index=2}
+Each Python file represents a standalone mini-project:
 
-1. **Mad Libs Game** – Fun word game generating creative stories using user inputs. :contentReference[oaicite:3]{index=3}  
-2. **Calculator App** – Basic arithmetic operations like addition, subtraction, multiplication, and division. :contentReference[oaicite:4]{index=4}  
-3. **Driving Eligibility & Traffic Exam** – Checks age eligibility and quizzes basic traffic rules. :contentReference[oaicite:5]{index=5}  
-4. **Weight Converter** – Convert weights between kilograms and pounds. :contentReference[oaicite:6]{index=6}  
-5. **Compound Interest Calculator** – Calculates compound interest with input validation. :contentReference[oaicite:7]{index=7}  
-6. **Shopping Cart Program** – Adds food items and prices to a cart and totals cost. :contentReference[oaicite:8]{index=8}  
-7. **Concession Stand Program** – Simple menu system for selecting items and calculating cost. :contentReference[oaicite:9]{index=9}  
-8. **Rock, Paper, Scissors Game** – Classic game with replay support. :contentReference[oaicite:10]{index=10}  
-9. **Number Guessing Game** – Guess the random number with guidance. :contentReference[oaicite:11]{index=11}  
-10. **Python Banking Program** – Console banking app for balance, deposit, and withdrawal. :contentReference[oaicite:12]{index=12}  
-11. **Contact Book** – CLI program to add, view, and delete contacts. :contentReference[oaicite:13]{index=13}  
-12. **To-Do List** – Console to-do list for tasks. :contentReference[oaicite:14]{index=14}  
-13. **Student Management System (CLI)** – Add, view, search, update, delete student records. :contentReference[oaicite:15]{index=15}  
-14. **Weight Converter** – Converts between units (kg ↔ lbs). :contentReference[oaicite:16]{index=16}
+1. **Mad Libs Game** – A fun word game that creates stories using user input  
+2. **Calculator App** – Performs basic arithmetic operations  
+3. **Driving Eligibility & Traffic Exam** – Checks eligibility and quizzes traffic rules  
+4. **Weight Converter** – Converts weight between kilograms and pounds  
+5. **Compound Interest Calculator** – Calculates compound interest based on user input  
+6. **Shopping Cart Program** – Adds items to a cart and calculates total cost  
+7. **Concession Stand Program** – Simple menu-based ordering system  
+8. **Rock, Paper, Scissors Game** – Classic game with replay functionality  
+9. **Number Guessing Game** – Guess a randomly generated number  
+10. **Banking Program** – Console-based app for deposits, withdrawals, and balance checks  
+11. **Contact Book** – Add, view, and delete contacts via CLI  
+12. **To-Do List** – Manage daily tasks from the terminal  
+13. **Student Management System (CLI)** – Add, update, search, and delete student records  
