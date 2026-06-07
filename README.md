@@ -23,3 +23,4 @@ Each Python file represents a standalone mini-project:
 13. **Student Management System (CLI)** – Add, update, search, and delete student records
 14. **Transaction Analyzer** - Program to track and analyze financial transactions, showing totals, averages, and largest deposits/withdrawals.
 15. **Star Wars API** - Program to fetch and display data from the Star Wars API. Users can choose categories like people or planets, and it lists the names of the retrieved entities.
+16. **Media Catalogue** – An object-oriented media management system that organizes movies and TV series in a unified catalogue
